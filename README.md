@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning ```Flutter```
+- 🌱 I’m currently learning ```Python```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=137042&layout=compact)
 
