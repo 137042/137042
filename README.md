@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning ```Flutter``` ```OpenGL``` ```JavaScript```
+- 🌱 I’m currently learning ```Flutter``` ```React```
 - 📫 How to reach me: ```mare137042@gmail.com```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=137042&layout=compact)
