@@ -27,7 +27,7 @@
    <br>
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=137042&hide=stars&count_private=true&show_icons=true)      
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=137042&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=137042&layout=compact&langs_count=7)
 
 </div>
 
