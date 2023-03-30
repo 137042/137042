@@ -1,18 +1,22 @@
 <div align="center">
-   <h2>Hi there 👋</h2>
-
+   
+   ![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=CHOI%20HYEMIN&fontSize=50&fontAlignY=40)
+   
+   <h2></h2>
    <div>
       <h3>📫 Contacts 📫</h3>
-      <img src="https://img.shields.io/badge/mare137042@gmail.com-000000?style=for-the-badge"/>
+      <a href="mailto:mare137042@gmail.com"><img src="https://img.shields.io/badge/mare137042@gmail.com-000000?style=for-the-badge"/></a>
+      
    </div>
 
    <div>
       <h3>🌱 Learning 🌱</h3>
+      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+      </br>
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=black"/>
       <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
       </br>
-      <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
       <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
    </div>
 
@@ -24,7 +28,7 @@
    </div>
 
    <h2></h2>
-<br>
+   <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=137042&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=137042&theme=github)
