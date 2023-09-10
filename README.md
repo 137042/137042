@@ -2,11 +2,9 @@
    
    ![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=CHOI%20HYEMIN&fontSize=50&fontAlignY=40)
    
-   <h2></h2>
    <div>
       <h3>📫 Contacts 📫</h3>
-      <a href="mailto:mare137042@gmail.com"><img src="https://img.shields.io/badge/mare137042@gmail.com-000000?style=for-the-badge"/></a>
-      
+      <a href="mailto:mare137042@gmail.com"><img src="https://img.shields.io/badge/mare137042@gmail.com-000000?style=for-the-badge"/></a>  
    </div>
 
    <div>
@@ -24,9 +22,9 @@
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=black"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
    </div>
-
-   <h2></h2>
-   <br>
+   </br>
+   </br>
+   </br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=137042&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=137042&theme=github)
@@ -43,6 +41,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 -->
