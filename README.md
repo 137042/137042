@@ -10,7 +10,7 @@
 
    <div>
       <h3>🏢 Workplace 🏢</h3>
-      <a href="http://poongsanhc.co.kr/"><img src="https://github.com/137042/137042/assets/75469383/381119be-46c5-44e8-a5cd-82e4611e5546"/></a>
+      <a href="http://poongsanhc.co.kr/" target="_blank"><img src="https://github.com/137042/137042/assets/75469383/381119be-46c5-44e8-a5cd-82e4611e5546"/></a>
       
    </div>
    </br>
