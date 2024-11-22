@@ -18,7 +18,8 @@
    <div>
       <h3>🌱 Interest 🌱</h3>
       <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=SAP&logoColor=white"/>
-      <img src="https://img.shields.io/badge/👀 CS Basics-DBBF68?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
    </div>
    </br>
    </br>
