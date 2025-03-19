@@ -10,7 +10,7 @@
 
    <div>
       <h3>🏢 Workplace 🏢</h3>
-      <a href="http://poongsanhc.co.kr/" target="_blank"><img src="https://github.com/137042/137042/assets/75469383/381119be-46c5-44e8-a5cd-82e4611e5546"/></a>
+      <a href="http://poongsanhc.co.kr/"target="_blank"><img src="https://github.com/137042/137042/assets/75469383/381119be-46c5-44e8-a5cd-82e4611e5546"/></a>
       
    </div>
    </br>
@@ -18,8 +18,11 @@
    <div>
       <h3>🌱 Interest 🌱</h3>
       <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=SAP&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-AA-ee5d20?logo=Csharp&style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+      </br>
       <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-C%23-3B0190?logo=Csharp&style=for-the-badge"/>
    </div>
    </br>
    </br>
