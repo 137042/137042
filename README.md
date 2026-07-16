@@ -10,7 +10,7 @@
 
    <div>
       <h3>🏢 Workplace 🏢</h3>
-      <a href="https://www.hyundai-autoever.com/"target="_blank"><img width="200" height="57" src="https://github.com/user-attachments/assets/4ad850f3-a8cf-4020-8151-576398bfa554"/></a>
+      <a href="https://www.hyundai-autoever.com/"target="_blank"><img width="200" height="136" src="https://github.com/user-attachments/assets/a094c43d-5faf-4852-96b2-71db148df52e"/></a>
       
    </div>
    </br>
